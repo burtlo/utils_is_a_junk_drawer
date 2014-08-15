@@ -6,7 +6,7 @@
 
 > http://english.stackexchange.com/questions/60429/origin-of-one-mans-trash-is-another-mans-treasure
 
-Time: Roughly ~8 minutes without code samples
+Time: Roughly ~8 minutes without descriptions
 
 ## SLIDE - BLACK
 
@@ -56,21 +56,21 @@ I slept in the living room. My father on the couch and me on a small bed. We mad
 
 The living room landscape was ever evolving as these colorfully shrouded dunes grew and shrank. And there somewhere between two dunes lay my bed.
 
-My grandmother was a "junk" collector. A child of the Great Depression. She accepted all manor of things; like books and costume jewelry. Combing through it, sorting it, and then re-selling it to people who would contact here through listings she would place in free circulations.
+My grandmother was a "junk" collector. In her younger years it was her business. She accepted all manor of things; like books and costume jewelry. Combing through it, sorting it, and then re-selling it to people who would contact here through listings she would place in free circulations.
 
 ## SLIDE - Project 4 Scores
 
-It was an obsession I never understood. It was a habit that gave me great embarrassment. Friends, never came over.
+It was her obsession. She was a child of the Great Depression.
+
+As she grew older she continued to collect but it became increasingly harder for her to stay ahead of all of it. I was often enlisted to clear tables -- or spaces -- before guests arrived.
 
 ## SLIDE - Total Project Scores
 
+... and maybe it's because she passed on recently that I thought about it more - had more questions and more thoughts about the junk she collected.
+
 ## SLIDE - BLACK
 
-Now in her absence all of the things that remained became artifacts; meaningful choices made on vacation in a foreign country or treasures from a loved one. Some of it also represented the "junk" she never had a chance to rid herself of.
-
-... and maybe it's because she passed on recently that I thought about it more - had more questions and more thoughts.
-
-In her absence each of us in the family tried to find significance in the things that she left behind. What did they mean to her -- how did they express her values and how did they express her hopes and desires.
+In her absence all of the things that remained became artifacts; meaningful choices made on vacation in a foreign country or treasures from a loved one. Some of it also represented the "junk" she never had a chance to rid herself of.
 
 ## SLIDE - Treasure
 
@@ -92,7 +92,7 @@ There is so much more to the code we write. To all the code that we leave behind
 
 We design and engineer architecture that represent ourselves. That express our opinions. And our body of work as a whole expresses what it is we love about the work that we do each day and the truths we sought.
 
-## SLIDE - Tool 3
+## SLIDE - Tool 3 (HashWithIndifferentAccess)
 
 > Tool Description
 
@@ -104,13 +104,11 @@ When we leave a space, we leave behind so much. Perhaps even more so in our fiel
 
 I am guilty of not stopping to examine the work and the words that others have created. Sometimes it is because I don't know where to look. Sometimes it's because I want to see if I can do it myself. And sometimes ... sometimes I am absolutely sure I can do it better than someone else.
 
-## SLIDE - Better or Worse?
+## SLIDE - Blank
 
-Within the "junk" I found so much more than a binary judgment. Better. Worse.
+### Read Source Code
 
-Developers did treat the code within their junk drawers differently. Overall the quality of the "junk" code was better than that of the "core" code.
-
-What I didn't expect to find were all the useful tools and interesting ideas within these junk drawers. Tools confined to the junk drawer because either our framework or our tools still make it less than trivial to manage them separately. Tools -- common across so many projects -- suggesting to me that the core of our language should change.
+### Private | Public | Communitty
 
 ## SLIDE - Question
 
@@ -119,6 +117,14 @@ I found interesting treasures -- marginalized -- because it did not fit within t
 * Is it too cumbersome to create gems?
 * Is it too difficult to manage our dependencies?
 * Is there a way we can create smaller, light-weight, re-usable dependencies?
+
+## SLIDE - Better or Worse?
+
+Within the "junk" I found so much more than a binary judgment. Better. Worse.
+
+Developers did treat the code within their junk drawers differently. Overall the quality of the "junk" code was better than that of the "core" code.
+
+What I didn't expect to find were all the useful tools and interesting ideas within these junk drawers. Tools confined to the junk drawer because either our framework or our tools still make it less than trivial to manage them separately. Ideas shared across so many projects -- repeating patterns -- suggesting to me that there may be more truths.
 
 ## SLIDE - Conclusion ("one project's junk is another project's treasure")
 
