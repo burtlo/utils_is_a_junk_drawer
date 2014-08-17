@@ -128,4 +128,14 @@ What I didn't expect to find were all the useful tools and interesting ideas wit
 
 ## SLIDE - Conclusion ("one project's junk is another project's treasure")
 
-As with all journeys, the adventure I imagined myself taking was nothing like the one I eventually found myself on. Instead of pure statistical truths, I found a greater depth of compassion and understanding for all of you. All of us that write code.
+Within the "junk" I found so much more than a binary judgment. Better. Worse.
+
+What I didn't expect to find were all the useful tools and interesting ideas within these junk drawers. Tools confined to the junk drawer because either our framework or our tools or practices still make it less than trivial to manage them. Ideas shared across so many projects -- repeating patterns -- suggesting to me that there may be more truths.
+
+But there is so much more to the code we write. To all the code that we leave behind. It embodies our limitations and our strengths. It expresses our understanding of the world... and it expresses how we wish we could change the world.
+
+We design and engineer architecture that represent ourselves. That express our opinions. And our body of work as a whole expresses what it is we love about the work that we do each day and the truths we sought.
+
+The most interesting thing I found on this journey to answer my questions is that I think I had it wrong. The code core critical to the mission was the junk -- because from what I saw, the junk we write was universal.
+
+So I'm asking that the next time you return to your current coding obsession or project and look for your junk. Rid yourself of it if you can -- and share it with all of us.
